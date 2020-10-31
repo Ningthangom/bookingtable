@@ -1,0 +1,25 @@
+{
+  "name": "hot_restaurant",
+  "version": "1.0.0",
+  "description": "minipro",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallglassof-milkjake/hot_restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallglassof-milkjake/hot_restaurant/issues"
+  },
+  "homepage": "https://github.com/tallglassof-milkjake/hot_restaurant#readme"
+}
